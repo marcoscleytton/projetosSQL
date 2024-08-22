@@ -1,0 +1,2 @@
+# projetosSQL
+atividades em mySQL
